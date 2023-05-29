@@ -4,10 +4,10 @@ const CONFIG = {
     name: "Fabricio Rocha",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Desenvolvedor Backend",
-    bio: "I develop everything using java and spring boot.",
-    email: "contato@fabricior.com",
+    bio: "Website em construção!!",
+    email: "contato@fabricior.com.br",
     linkedin: "frabs",
-    github: "roch-fabricio",
+    github: "rocha-fabricio",
     instagram: "",
   },
   projects: [
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "rocha-fabricio/personal-blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
